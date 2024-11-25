@@ -1,0 +1,5 @@
+kol_dz = (12)
+kol_t = (1.5)
+name = ('python')
+time = (kol_t / kol_dz)
+print('Курс:', name, 'всего задач:', kol_dz, 'затрачено часов:', kol_t, 'среднее время выполнения', time)
